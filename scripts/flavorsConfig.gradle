@@ -40,6 +40,19 @@ ext {
     currentInfo = getCurrentFlavor(rootProject)
 }
 
+ext {
+    fromPath = ""
+    archive = ""
+    dest = ""
+    myName = ""
+    mappingFromPath = ""
+    mappingDestDir = ""
+    mappingFileName = ""
+    renameTaskName = "renameTaskName"
+    copyMappingName = "copyMappingName"
+
+}
+
 
 
 

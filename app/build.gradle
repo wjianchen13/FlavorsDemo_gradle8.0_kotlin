@@ -4,20 +4,6 @@ import java.util.regex.Pattern
 
 apply plugin: 'com.android.application'
 
-ext {
-    fromPath = ""
-    archive = ""
-    dest = ""
-    myName = ""
-    mappingFromPath = ""
-    mappingDestDir = ""
-    mappingFileName = ""
-    renameTaskName = ""
-    copyMappingName = ""
-
-}
-
-
 android {
     namespace "com.cold.flavorsdemo"
     compileSdkVersion rootProject.ext.android.compileSdkVersion
