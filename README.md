@@ -4,6 +4,44 @@
 
 android studio使用gradle作为构建工具，这里简单记录一下使用gradle进行多渠道打包的基础知识
 
+## 参考文档
+Gradle v8.5 笔记 - 从入门到进阶（基于 Kotlin DSL
+https://blog.csdn.net/CYK_byte/article/details/136828629
+
+Android gradle groovy改为kotlin总结
+https://blog.csdn.net/yingchengyou/article/details/140429546
+
+Gradle Kotlin DSL指南
+https://cloud.tencent.com/developer/article/1936520
+
+Android—Gradle教程（九）完结篇
+https://cloud.tencent.com/developer/article/2098362
+
+Android Gradle Kotlin DSL，使用Kotlin来构建Gradle
+https://blog.csdn.net/yu540135101/article/details/113689796
+
+Android kotlin build.gradle.kts配置
+https://blog.csdn.net/jdsjlzx/article/details/136030728
+
+快速迁移 Gradle 脚本至 KTS
+https://www.bennyhuo.com/2021/04/17/gradle-migrate-to-kts/#4-1-Kotlin-%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%B1%9E%E6%80%A7%E8%AF%BB%E5%86%99
+
+Android Gradle 的配置从 Groovy 迁移到 KTS
+https://blog.csdn.net/xiaowang_lj/article/details/131251544
+
+将构建逻辑从 Groovy 迁移到 Kotlin
+https://doc.qzxdp.cn/gradle/8.1.1/userguide/migrating_from_groovy_to_kotlin_dsl.html
+
+Kotlin DSL 现在成为新 Gradle 构建的默认设置
+https://blog.jetbrains.com/zh-hans/kotlin/2023/05/kotlin-dsl-gradle/
+
+Gradle Kotlin DSL 入门
+https://doc.qzxdp.cn/gradle/8.1.1/userguide/kotlin_dsl.html
+
+
+
+
+
 ## 笔记
 笔记是这个：220209_gradle教程笔记
 
