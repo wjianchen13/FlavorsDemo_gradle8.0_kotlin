@@ -5,6 +5,15 @@
 android studio使用gradle作为构建工具，这里简单记录一下使用gradle进行多渠道打包的基础知识
 
 ## 参考文档
+基础测试项目
+https://github.com/wjianchen13/GradleKotlinTest.git
+
+Android Gradle Kotlin DSL，使用Kotlin来构建Gradle （重要）
+https://blog.csdn.net/yu540135101/article/details/113689796
+
+Android kotlin build.gradle.kts配置（重要）
+https://blog.csdn.net/jdsjlzx/article/details/136030728
+
 Gradle v8.5 笔记 - 从入门到进阶（基于 Kotlin DSL
 https://blog.csdn.net/CYK_byte/article/details/136828629
 
@@ -16,12 +25,6 @@ https://cloud.tencent.com/developer/article/1936520
 
 Android—Gradle教程（九）完结篇
 https://cloud.tencent.com/developer/article/2098362
-
-Android Gradle Kotlin DSL，使用Kotlin来构建Gradle
-https://blog.csdn.net/yu540135101/article/details/113689796
-
-Android kotlin build.gradle.kts配置
-https://blog.csdn.net/jdsjlzx/article/details/136030728
 
 快速迁移 Gradle 脚本至 KTS
 https://www.bennyhuo.com/2021/04/17/gradle-migrate-to-kts/#4-1-Kotlin-%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%B1%9E%E6%80%A7%E8%AF%BB%E5%86%99
